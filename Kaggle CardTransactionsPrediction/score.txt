@@ -1,0 +1,2 @@
+map@k = 0.21502
+(leaderboard Kirill Grachev)
